@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, I'm Aytak 
 
 <!--
 **Aykida/Aykida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Computer Engineering Student
+
+Interested in programming, technology, and creative projects.
+Python · Django · JavaScript · HTML · CSS · Java · JavaFX
+
+Currently learning, experimenting, and building projects along the way.
