@@ -6,7 +6,6 @@ Interested in programming, technology, and creative projects.
 <br>
 Python · Django · JavaScript · HTML · CSS · Java · JavaFX
 <br>
-
-
+<br>
 Currently learning, experimenting, and building projects along the way.
 </p>
