@@ -4,9 +4,7 @@
 
 Interested in programming, technology, and creative projects.
 <br>
-<table>
-<tr><td><b>Languages</b></td><td>Python, JavaScript, Java</td></tr>
-<tr><td><b>Frameworks</b></td><td>Django, JavaFX</td></tr>
-</table>
-
+<p align="center">
+<span style="color:#8A2BE2;">Python · Django · JavaScript · HTML · CSS · Java · JavaFX</span>
+</p>
 Currently learning, experimenting, and building projects along the way.
